@@ -1,7 +1,7 @@
 ## Jhonata Santos
 ### cientista de Dados
 
-Em processo de transição para a área de Ciência de Dados, venho desenvolvendo habilidades em Banco de Dados, MySQL, modelagem relacional, normalização e manipulação de dados, por meio de estudos no SENAI e práticas contínuas.
+Atualmente venho desenvolvendo habilidades em Banco de Dados, MySQL, modelagem relacional, normalização e manipulação de dados, por meio de estudos no SENAI e práticas contínuas.
 Tenho como objetivo atuar em projetos que envolvam soluções orientadas a dados, contribuindo com visão analítica, dedicação e aprendizado constante.
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
