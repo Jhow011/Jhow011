@@ -1,4 +1,4 @@
-## Jhonata Santos
+## Jhonata Pinheiro
 ### cientista de Dados
 
 Atualmente venho desenvolvendo habilidades em Banco de Dados, MySQL, modelagem relacional, normalização e manipulação de dados, por meio de estudos no SENAI e práticas contínuas.
